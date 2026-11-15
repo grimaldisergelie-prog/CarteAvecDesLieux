@@ -4,7 +4,7 @@ Carte des communes, avec des gens.
 
 ## 🗺️ Accès
 
-➡️ Ouvrir la carte
+➡️ [Ouvrir la carte](communes_seine_et_marne.html)
 
 ## Légende
 
